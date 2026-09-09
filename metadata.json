@@ -1,0 +1,11 @@
+{
+  "name": "Maya - JARVIS Desktop AI Assistant",
+  "description": "JARVIS-style friendly, high-knowledge desktop AI assistant featuring audio-to-audio interaction with a female Hindi voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
